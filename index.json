@@ -1,0 +1,11 @@
+{
+  "org": "cohere-ai",
+  "repo": "sandbox-toy-semantic-search",
+  "versions": [
+    {
+      "commit": "c27c9174c950d58e8c6ee0e6f49fc9a2cc414a5b",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:17:49.714030+00:00"
+    }
+  ]
+}
