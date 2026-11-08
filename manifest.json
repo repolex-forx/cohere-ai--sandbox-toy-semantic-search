@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "cohere-ai",
+  "repo": "sandbox-toy-semantic-search",
+  "versions": [
+    {
+      "commit": "c27c9174c950d58e8c6ee0e6f49fc9a2cc414a5b",
+      "parsed_at": "2026-11-08T06:15:55.060152+00:00",
+      "filetree": "filetree/c27c9174c950d58e8c6ee0e6f49fc9a2cc414a5b.nq.gz",
+      "blobs": [
+        "blob/e6a4c4763d87889973d166b8fbe6a8aeaad103bf.nq.gz",
+        "blob/45ce1f6497342bf6666af140569723a000f64f54.nq.gz",
+        "blob/27b3bde82c754284b05a693be07efd2344e9be52.nq.gz",
+        "blob/d6aa47f622dbe6160fe782e55b4ae96040b61746.nq.gz",
+        "blob/191cf4e7b095f7c74d52f3da8952b3e341b290d7.nq.gz",
+        "blob/79760155d867508425d4d887923d0d5ba211a497.nq.gz",
+        "blob/b78d90a26a15600d813d5c2c77871029d2fb2e3a.nq.gz",
+        "blob/cec0a63c1586071d2cf2ba8818ac4dcb0ed82dd5.nq.gz",
+        "blob/9070ad2c24474a41e6e09158a1369eb6d77d7cc5.nq.gz",
+        "blob/ed2de590d35e9b764b1fd25d5d669ca3ed22a68b.nq.gz",
+        "blob/be95eb0df339be149843bfcfcec3dae54bcc16ca.nq.gz",
+        "blob/bf9aa7cb07a1c7f63f2a18759b4d6e372e5e7c6f.nq.gz",
+        "blob/342d26f46014dde74fc58a42c071dd22efe9b568.nq.gz",
+        "blob/0fa0fae5b5a2ffd25bc4c930245da3a6f243cbad.nq.gz",
+        "blob/72aaa1596edefcbf7d10fd4f7ebf878f3fe99221.nq.gz",
+        "blob/e02b86a4a1685252ef596dbdfc6aad67d03c0761.nq.gz",
+        "blob/14078e64b2be653240c655412e7838c972090c26.nq.gz",
+        "blob/28d68763aae69d0766bdc222a8610c87cf9c3976.nq.gz",
+        "blob/59830a042d5ac96aa4e755b1991fa03c6ef0ea83.nq.gz",
+        "blob/4e69de2be1df73071bb03d535fa03841e840dbb0.nq.gz",
+        "blob/bf67ae59ed81dc591d7a39031374c843f88b2d04.nq.gz",
+        "blob/2b2af20b7a73bc514631bd0d50a340c004b9bafd.nq.gz",
+        "blob/484fdad55d233695528ee79b49f00a9fbc4b116b.nq.gz",
+        "blob/7759b19a0ce0fb7a8fc74df5147f9cdde30c008b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
