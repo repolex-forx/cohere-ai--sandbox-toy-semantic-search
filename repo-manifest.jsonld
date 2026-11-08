@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/sandbox-toy-semantic-search/commit/c27c9174c950d58e8c6ee0e6f49fc9a2cc414a5b",
       "git:hexsha": "c27c9174c950d58e8c6ee0e6f49fc9a2cc414a5b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
